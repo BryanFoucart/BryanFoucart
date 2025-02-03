@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@bryan-foucart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bryant-foucart" height="30" width="40" /></a>
+<a href="https://codepen.io/bryan-foucart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bryant-foucart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bryan-foucart-3a08ab189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-foucart-3a08ab189" height="30" width="40" /></a>
 </p>
 
