@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a passionate and motivated French web developper<br><br>- 🔭 I’m currently working on [GenFicheCombatV2](https://github.com/BryanFoucart/GenFicheCombatV2) <br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time, I enjoy playing video games (have you played Expedition 33?), reading novels and manga (I love David Gemmell's “Morning Star” and “Waylander”), and writing.</p>
+<p align="left">I'm a passionate and motivated French web developper<br><br>- 🔭 I’m currently working on <url href="https://github.com/BryanFoucart/GenFicheCombatV2">GenFicheCombatV2</url> <br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time, I enjoy playing video games (have you played Expedition 33?), reading novels and manga (I love David Gemmell's “Morning Star” and “Waylander”), and writing.</p>
 
 ###
 
